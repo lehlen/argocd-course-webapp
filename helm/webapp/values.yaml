@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: lehlen/argocd-course-webapp
+  repository: celeblung/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 554ed2f395da9203a770f8b9ee1cae2d57bb906e
